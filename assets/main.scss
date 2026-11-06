@@ -1,0 +1,18 @@
+---
+---
+$brand-color: #D98A5B;
+$text-color: #1D2233;
+
+@import "minima";
+
+.site-header { border-top-color: #1D2233; }
+.site-title, .site-title:visited { color: #1D2233; font-weight: 600; }
+
+.project-list { list-style: none; margin: 1.5rem 0 2rem; }
+.project-list li {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #e8e8e8;
+  display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; align-items: baseline;
+}
+.project-list a { font-size: 1.15rem; font-weight: 600; }
+.project-list span { color: #6b6f7b; }
