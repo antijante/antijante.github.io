@@ -2,8 +2,6 @@
 title: Aluex Beams
 ---
 
-# Aluex Beams
-
 Project notes from Antijante on the new website for [Aluexbeams](https://aluexbeams.com). The site is still being built and is not live. This is not official Aluexbeams information, so use aluexbeams.com and its data sheets for anything about the products.
 
 ## What we are building
